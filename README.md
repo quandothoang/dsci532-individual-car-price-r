@@ -8,7 +8,7 @@ The dashboard allows users to explore car pricing patterns across brands, fuel t
 
 ## Live Application
 
-**Deployed app:** 
+**Deployed app:**  https://019cdb44-3561-bbf5-38a8-56f14d723095.share.connect.posit.cloud/
 
 ## Features
 
